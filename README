@@ -1,2 +1,3 @@
 Use Predict_Loan_Default.py to predict if borrower will default on loan.  
+&nbsp;
 The files dfx.csv (X, ['is_bad'] removed) and dfy.csv (y, ['is_bad']), in this directory, contain data from https://s3.amazonaws.com/datarobot_public_datasets/DR_Demo_Lending_Club_reduced.csv. They can be used for input into Predict_Loan_Default.py
