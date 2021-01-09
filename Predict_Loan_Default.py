@@ -193,4 +193,4 @@ dl.get_tune_parameters()
 
 # Output for timer
 print ("Program execution time = ", time.time()-starttime,"ms")
-print ("Memory usage of program = ", process.memory_info().rss, "MB")
+print ("Memory usage of program = ", process.memory_info().rss, "bytes")
